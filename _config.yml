@@ -1,0 +1,11 @@
+# basic options, I can say whatever here
+title: AI in Mobile Industry
+author: lealyn 
+email: your-email@domain.com
+description: AI Revolution Blog
+twitter_username: lealynfs
+github_username:  lealynfs
+
+# Build settings
+markdown: kramdown
+theme: minima
